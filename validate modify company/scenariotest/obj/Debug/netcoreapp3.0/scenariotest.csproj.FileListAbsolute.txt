@@ -1,0 +1,22 @@
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.exe
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.deps.json
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.runtimeconfig.json
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.runtimeconfig.dev.json
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.dll
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.pdb
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.csprojAssemblyReference.cache
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.AssemblyInfoInputs.cache
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.AssemblyInfo.cs
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.dll
+C:\Users\F.Hubbard21\source\repos\scenariotest\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.pdb
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.exe
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.deps.json
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.runtimeconfig.json
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.runtimeconfig.dev.json
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.dll
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\bin\Debug\netcoreapp3.0\scenariotest.pdb
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.csprojAssemblyReference.cache
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.AssemblyInfoInputs.cache
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.AssemblyInfo.cs
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.dll
+C:\Users\F.Hubbard21\source\repos\validate modify company\scenariotest\obj\Debug\netcoreapp3.0\scenariotest.pdb

@@ -1,0 +1,11 @@
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\F.Hubbard21\source\repos\validate location\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
